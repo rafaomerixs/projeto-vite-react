@@ -1,0 +1,31 @@
+.container {
+    background-color: #f5f5f5;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #333333;
+  }
+  
+  h1, h2 {
+    color: #1e40af;
+  }
+  
+  ul {
+    margin-left: 20px;
+  }
+  
+  .button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 16px;
+    background-color: #2563eb;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #1d4ed8;
+  }
